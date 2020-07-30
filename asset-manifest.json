@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Munish-Project/static/css/main.b0a9398d.chunk.css",
+    "main.js": "/Munish-Project/static/js/main.aa09b79a.chunk.js",
+    "main.js.map": "/Munish-Project/static/js/main.aa09b79a.chunk.js.map",
+    "runtime~main.js": "/Munish-Project/static/js/runtime~main.1aa0afcf.js",
+    "runtime~main.js.map": "/Munish-Project/static/js/runtime~main.1aa0afcf.js.map",
+    "static/css/2.22a7d4ef.chunk.css": "/Munish-Project/static/css/2.22a7d4ef.chunk.css",
+    "static/js/2.3f72f909.chunk.js": "/Munish-Project/static/js/2.3f72f909.chunk.js",
+    "static/js/2.3f72f909.chunk.js.map": "/Munish-Project/static/js/2.3f72f909.chunk.js.map",
+    "index.html": "/Munish-Project/index.html",
+    "precache-manifest.29ab695f36cce8132e41c7175c3e272e.js": "/Munish-Project/precache-manifest.29ab695f36cce8132e41c7175c3e272e.js",
+    "service-worker.js": "/Munish-Project/service-worker.js",
+    "static/css/2.22a7d4ef.chunk.css.map": "/Munish-Project/static/css/2.22a7d4ef.chunk.css.map",
+    "static/css/main.b0a9398d.chunk.css.map": "/Munish-Project/static/css/main.b0a9398d.chunk.css.map",
+    "static/media/index.scss": "/Munish-Project/static/media/todolist.ac82d97d.png",
+    "static/media/myImage.png": "/Munish-Project/static/media/myImage.2cb23828.png"
+  }
+}
